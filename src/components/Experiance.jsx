@@ -1,11 +1,11 @@
 import React from "react";
 import html from "../../public/html.png";
-import css from "../../public/css.jpg";
-import java from "../../public/java.png";
+import css from "../../public/express.png";
+import java from "../../public/reactjs.png";
 import javascript from "../../public/javascript.png";
-import oracle from "../../public/oracle.png";
-import spring from "../../public/spring.png";
-import springBoot from "../../public/springBoot.jpg";
+import oracle from "../../public/html.png";
+import spring from "../../public/css.jpg";
+import springBoot from "../../public/java.png";
 function Experiance() {
   const cardItem = [
     {
@@ -16,12 +16,12 @@ function Experiance() {
     {
       id: 2,
       logo: css,
-      name: "CSS",
+      name: "Express",
     },
     {
       id: 3,
       logo: java,
-      name: "Java",
+      name: "React",
     },
     {
       id: 4,
@@ -31,17 +31,17 @@ function Experiance() {
     {
       id: 5,
       logo: oracle,
-      name: "Oracle",
+      name: "HTML",
     },
     {
       id: 6,
       logo: spring,
-      name: "Spring",
+      name: "CSS",
     },
     {
       id: 7,
       logo: springBoot,
-      name: "Spring Boot",
+      name: "Java",
     },
   ];
   return (
@@ -52,7 +52,7 @@ function Experiance() {
       <div>
         <h1 className="text-3xl font-bold mb-5">Experiance</h1>
         <p className="  ">
-          I've 1 years of experiance in below technologies.
+          I'm a Fresher and Familiar with this Technologies and Foundational Knowledge of Full-stack Web Development.
         </p>
         <div className="grid grid-cols-2 md:grid-cols-5 gap-7 my-3">
           {cardItem.map(({ id, logo, name }) => (

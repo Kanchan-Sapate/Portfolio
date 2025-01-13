@@ -1,11 +1,11 @@
 import React from "react";
 
-import pic from "../../public/photo.avif";
+import pic from "../../public/photo.jpg";
 
-import { FaSquareFacebook } from "react-icons/fa6";
+import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
-import { IoLogoYoutube } from "react-icons/io";
-import { FaTelegram } from "react-icons/fa6";
+import { FaGithub } from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa6";
 
 import { SiMongodb } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
@@ -50,23 +50,23 @@ function Home() {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.facebook.com/" target="_blank">
-                      <FaSquareFacebook className="text-2xl cursor-pointer" />
+                    <a href="https://www.instagram.com/p_a_l_l_a_v_i_sapate_21" target="_blank">
+                      <FaInstagram className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a href="https://www.linkedin.com/in/kanchan-sapate-51a815282" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.youtube.com/" target="_blank">
-                      <IoLogoYoutube className="text-2xl cursor-pointer" />
+                    <a href="https://www.github.com/Kanchan-Sapate" target="_blank">
+                      <FaGithub className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://t.me/" target="_blank">
-                      <FaTelegram className="text-2xl cursor-pointer" />
+                    <a href="https://www.x.com/KanchanSapate" target="_blank">
+                      <FaTwitter className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                 </ul>

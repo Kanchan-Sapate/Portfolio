@@ -15,12 +15,29 @@ function About() {
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
-          Education & Training
+          Education 
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          SSC | G.R.Kabra High School,Ch Bz,Amravati | 2018 <br />
+          HSC | N. P. jr. Science College, Ch Bz, Amravati | 2020 <br />
+          B.E.| HVPM College of Engineering & Technology, Amravati | 2024 
+        </span>
+        <br />
+        <br />
+        <h1 className="text-green-600 font-semibold text-xl">
+          Training
+        </h1>
+        <span>
+          Full Stack Web Developer | ARC Technologies & Institution, Nagpur | June24-Feb25
+        </span>
+        <br />
+        <br />
+        <h1 className="text-green-600 font-semibold text-xl">
+          Internship
+        </h1>
+        <span>
+          Java Programming | InternPe | Aug23-Sep23 <br />
+          Web Development | CodSoft | Aug23-Sep23
         </span>
         <br />
         <br />
@@ -28,31 +45,10 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in JavaScript, TypeScript, HTML & CSS Experienced with React.js, 
+          Express.js, MongoDB, Git/GitHub, npm, Vite, Jest Strong grasp of component-based architecture, responsive design, and API development
           Excellent problem-solving skills Effective communicator and
           collaborator
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Professional Experience
-        </h1>
-        <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Achievements & Awards
-        </h1>
-        <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
         </span>
         <br />
         <br />
@@ -61,7 +57,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative Web Development solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.
