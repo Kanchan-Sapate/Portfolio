@@ -5,7 +5,7 @@ import java from "../../public/reactjs.png";
 import javascript from "../../public/javascript.png";
 import oracle from "../../public/html.png";
 import spring from "../../public/css.jpg";
-import BootStrap from "../../public/BootStrap_logo.svg";
+import BootStrap from "../../public/bootstrap.png";
 import TailwyndCSS from "../../public/tailwynd.png";
 import Git from "../../public/git.png";
 import Figma from "../../public/figmaaa.png";
