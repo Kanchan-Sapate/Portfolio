@@ -48,22 +48,22 @@ function Experiance() {
       name: "BootStrap",
     },
     {
-      id: 7,
+      id: 8,
       logo: TailwyndCSS,
       name: "TailwyndCSS",
     },
     {
-      id: 7,
+      id: 9,
       logo: Git,
       name: "Git",
     },
     {
-      id: 7,
+      id: 10,
       logo: Figma,
       name: "Figma",
     },
     {
-      id: 7,
+      id: 11,
       logo: Firebase,
       name: "Firebase",
     },
