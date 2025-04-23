@@ -37,11 +37,12 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+            I’m a MERN stack developer eager to kickstart my career in full-stack web development.
+             As a fresher, I’ve built a solid foundation in React.js, JavaScript, MongoDB, 
+             Express.js, and Node.js through personal projects and hands-on learning.
+              I'm passionate about building clean, responsive, and user-friendly web applications, 
+              and I'm excited to grow by contributing to real-world development teams.
+
             </p>
             <br />
             {/* social media icons */}
@@ -50,12 +51,12 @@ function Home() {
                 <h1 className="font-bold text-center ">Available on</h1>
                 <ul className="flex space-x-5">
                   <li>
-                    <a href="https://www.instagram.com/p_a_l_l_a_v_i_sapate_21" target="_blank">
+                    <a href="https://www.instagram.com/p_a_l_l_a_v_i_sapate_03" target="_blank">
                       <FaInstagram className="text-2xl cursor-pointer" />
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/in/kanchan-sapate-51a815282" target="_blank">
+                    <a href="https://www.linkedin.com/in/kanchan-sapate" target="_blank">
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>

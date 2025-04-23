@@ -5,6 +5,11 @@ import java from "../../public/reactjs.png";
 import javascript from "../../public/javascript.png";
 import oracle from "../../public/html.png";
 import spring from "../../public/css.jpg";
+import BootStrap from "../../public/BootStrap_logo.svg";
+import TailwyndCSS from "../../public/tailwynd.png";
+import Git from "../../public/git.png";
+import Figma from "../../public/figmaaa.png";
+import Firebase from "../../public/firebase.png";
 import springBoot from "../../public/java.png";
 function Experiance() {
   const cardItem = [
@@ -40,8 +45,28 @@ function Experiance() {
     },
     {
       id: 7,
-      logo: springBoot,
-      name: "Java",
+      logo: BootStrap,
+      name: "BootStrap",
+    },
+    {
+      id: 7,
+      logo: TailwyndCSS,
+      name: "TailwyndCSS",
+    },
+    {
+      id: 7,
+      logo: Git,
+      name: "Git",
+    },
+    {
+      id: 7,
+      logo: Figma,
+      name: "Figma",
+    },
+    {
+      id: 7,
+      logo: Firebase,
+      name: "Firebase",
     },
   ];
   return (
@@ -50,7 +75,7 @@ function Experiance() {
       className="max-w-screen-2xl container mx-auto px-4 md:px-20 my-16"
     >
       <div>
-        <h1 className="text-3xl font-bold mb-5">Experiance</h1>
+        <h1 className="text-3xl font-bold mb-5">Skills</h1>
         <p className="  ">
           I'm a Fresher and Familiar with this Technologies and Foundational Knowledge of Full-stack Web Development.
         </p>
