@@ -1,6 +1,6 @@
 import React from "react";
-import html from "../../public/html.png";
-import css from "../../public/express.png";
+import MongoDB from "../../public/html.png";
+import Express from "../../public/express.png";
 import java from "../../public/reactjs.png";
 import javascript from "../../public/javascript.png";
 import oracle from "../../public/html.png";
@@ -10,17 +10,16 @@ import TailwyndCSS from "../../public/tailwynd.png";
 import Git from "../../public/git.png";
 import Figma from "../../public/figmaaa.png";
 import Firebase from "../../public/firebase.png";
-import springBoot from "../../public/java.png";
 function Experiance() {
   const cardItem = [
     {
       id: 1,
-      logo: html,
+      logo: MongoDB,
       name: "MongoDB",
     },
     {
       id: 2,
-      logo: css,
+      logo: Express,
       name: "Express",
     },
     {
