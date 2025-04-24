@@ -6,7 +6,7 @@ function Experiance() {
     { id: 3, logo: "/javascript.png", name: "JavaScript" },
     { id: 4, logo: "/reactjs.png", name: "React" },
     { id: 5, logo: "/express.png", name: "Express" },
-    { id: 6, logo: "/mongoDB.jpg", name: "MongoDB" },
+    { id: 6, logo: "/mongodb.jpg", name: "MongoDB" },
     { id: 7, logo: "/bootstrap.png", name: "Bootstrap" },
     { id: 8, logo: "/tailwynd.png", name: "TailwindCSS" },
     { id: 9, logo: "/git.png", name: "Git" },
