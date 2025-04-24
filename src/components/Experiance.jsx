@@ -1,73 +1,17 @@
 import React from "react";
-import html from "../../public/html.png";
-import css from "../../public/express.png";
-import java from "../../public/reactjs.png";
-import javascript from "../../public/javascript.png";
-import oracle from "../../public/html.png";
-import spring from "../../public/css.jpg";
-import BootStrap from "../../public/bootstrap.png";
-import TailwyndCSS from "../../public/tailwynd.png";
-import Git from "../../public/git.png";
-import Figma from "../../public/figmaaa.png";
-import Firebase from "../../public/firebase.png";
-import springBoot from "../../public/java.png";
 function Experiance() {
   const cardItem = [
-    {
-      id: 1,
-      logo: html,
-      name: "MongoDB",
-    },
-    {
-      id: 2,
-      logo: css,
-      name: "Express",
-    },
-    {
-      id: 3,
-      logo: java,
-      name: "React",
-    },
-    {
-      id: 4,
-      logo: javascript,
-      name: "JavaScript",
-    },
-    {
-      id: 5,
-      logo: oracle,
-      name: "HTML",
-    },
-    {
-      id: 6,
-      logo: spring,
-      name: "CSS",
-    },
-    {
-      id: 7,
-      logo: BootStrap,
-      name: "BootStrap",
-    },
-    {
-      id: 7,
-      logo: TailwyndCSS,
-      name: "TailwyndCSS",
-    },
-    {
-      id: 7,
-      logo: Git,
-      name: "Git",
-    },
-    {
-      id: 7,
-      logo: Figma,
-      name: "Figma",
-    },
-    {
-      id: 7,
-      logo: Firebase,
-      name: "Firebase",
-    },
+    { id: 1, logo: "/html.png", name: "HTML" },
+    { id: 2, logo: "/css.jpg", name: "CSS" },
+    { id: 3, logo: "/javascript.png", name: "JavaScript" },
+    { id: 4, logo: "/reactjs.png", name: "React" },
+    { id: 5, logo: "/express.png", name: "Express" },
+    { id: 6, logo: "/mongodb.jpg", name: "MongoDB" },
+    { id: 7, logo: "/bootstrap.png", name: "Bootstrap" },
+    { id: 8, logo: "/tailwynd.png", name: "TailwindCSS" },
+    { id: 9, logo: "/git.png", name: "Git" },
+    { id: 10, logo: "/figmaaa.png", name: "Figma" },
+    { id: 11, logo: "/firebase.png", name: "Firebase" },
   ];
   return (
     <div
